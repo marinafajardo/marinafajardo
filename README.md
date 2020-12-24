@@ -14,4 +14,4 @@
 - Tratamento de dados, análise exploratória e machine learning com R
 - Visualização e dashboards com Power BI
 - Consulta em banco de dados com SQL
-- Aprendizado em construção em python
+- Começando a me aventurar em python
