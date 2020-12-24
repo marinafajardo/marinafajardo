@@ -7,11 +7,11 @@
 - 👯 Estou buscando colaborar em projetos que envolvam experiência do consumidor e tendências de mercado
 - 🤔 Estou sempre buscando adquirir mais conhecimento em todas as matérias que envolvam Data Science. Aceito sugestões!
 - 💬 Me pergunte quem é a Fajardo e aonde ela quer chegar ^^
-- 📫 Para falar comigo basta enviar um e-mail para fajardo.marina@hotmail.com ou uma mensagem no linkedin: https://www.linkedin.com/in/marinafajardo/
+- 📫 Para falar comigo basta me enviar um e-mail ou uma mensagem no linkedin
 
 ### Aprendizado constante
 
 - Tratamento de dados, análise exploratória e machine learning com R
 - Visualização e dashboards com Power BI
 - Consulta em banco de dados com SQL
-- Começando a me aventurar em python
+- Começando a me aventurar em Python
