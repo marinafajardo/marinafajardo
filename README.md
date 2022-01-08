@@ -2,16 +2,15 @@
 
 ### A Fajardo
 
-- 🔭 Atualmente estou trabalhando em meu projeto final de conclusão de curso sobre análise de sentimentos
-- 🌱 No momento estou aprofundando meus conhecimentos em linguagem R com foco em text mining
-- 👯 Estou buscando colaborar em projetos que envolvam experiência do consumidor e tendências de mercado
+- 🔭 Atualmente estudo para me formar Cientista de Dados pela DSA
+- 🌱 Me interesso por todo universo de Processamento de Linguagem Natural
+- 👯 Me coloco à disposição para colaborar em projetos de business analytics
 - 🤔 Estou sempre buscando adquirir mais conhecimento em todas as matérias que envolvam Data Science. Aceito sugestões!
 - 💬 Me pergunte quem é a Fajardo e aonde ela quer chegar ^^
 - 📫 Para falar comigo basta me enviar um e-mail ou uma mensagem no linkedin
 
 ### Aprendizado constante
 
-- Tratamento de dados, análise exploratória e machine learning com R
-- Visualização e dashboards com Power BI
-- Consulta em banco de dados com SQL
-- Começando a me aventurar em Python
+- Tratamento de dados, análise exploratória e machine learning em Python e R
+- Visualização e dashboards com Power BI e Tableau
+- Linguagem SQL - consulta em banco de dados (MySQL e Oracle)
