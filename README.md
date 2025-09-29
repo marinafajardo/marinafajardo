@@ -2,7 +2,7 @@
 
 ### A Fajardo
 
-- 🔭 Mestra em Computação pela PPG/CompMat do IME/UERJ
+- 🔭 Mestra em Ciência Computacionais e Modelagem Matemática pelo IME/UERJ (PPG-CompMat)
 - 🌱 Me interesso por todo universo de Processamento de Linguagem Natural, Machine Learning e Lógica Difusa (Fuzzy)
 - 👯 Me coloco à disposição para colaborar em projetos acadêmicos
 - 🤔 Estou sempre buscando adquirir mais conhecimento em todas as matérias que envolvam Data Science. Aceito sugestões!
